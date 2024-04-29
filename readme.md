@@ -5,6 +5,10 @@
 
 ![GameImage](/breakoutGame.png)
 
+<p>Codedex is an online learning platform dedicated to teaching the next generation of programmers the fundamentals they need to get their foot in the door in the professional world. Check out their main website here: <a href="https://www.codedex.io/home">Codedex</a></p>
+
+<p>Breakout is an early days of the internet computer game that acts much like single player Pong- you control a single paddle bouncing a ball against it and into a set of bricks. Destroy bricks by bouncing into them, but don't let the ball go out of bounds by missing it with the paddle, or else you'll lose a life! Check out the history of the game Breakout here: <a href="https://en.wikipedia.org/wiki/Breakout_(video_game)">Breakout Game</a></p>
+
 <h3>GETTING STARTED</h3>
 <p>
 In order to run this program, there's a couple of steps we'll have to follow to get you squared away. If you've already got python3 installed you're winning the game!
@@ -16,7 +20,7 @@ In order to run this program, there's a couple of steps we'll have to follow to 
     Open the cloned project folder in VS Code or similar IDE.
     </li>
     <li>
-    You'll want to make sure you have Python 3.0 or better installed on your device. If you don't, head over to https://www.python.org/downloads/ for the latest and greatest. Follow the instructions therein for installation of Python 3 to your device.
+    You'll want to make sure you have Python 3.0 or better installed on your device. If you don't, head over to <a href="https://www.python.org/downloads/">this page</a> for the latest and greatest. Follow the instructions therein for installation of Python 3 to your device.
     </li>
     <li>
     Next, install the Python extension if you haven't already. This will allow you to run Python programs and download additional packages through pip as needed.
@@ -39,7 +43,7 @@ In order to run this program, there's a couple of steps we'll have to follow to 
 </ol>
 </p>
 
-A code-along in python of my favorite childhood game
+Life and tech doesn't always have to be a massive thing. Enjoy this light and breezy game demo of a beloved childhood treasure of mine!
 
 Tutorial for code-along at:
 https://geeksforgeeks.org/create-breakout-game-using-python/
